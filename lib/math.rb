@@ -29,3 +29,10 @@ def square_root(num)
   p math.sqrt(num)
   square_root(81)
 end
+
+addition
+subtraction
+division
+multiplication
+modulo
+square_root
